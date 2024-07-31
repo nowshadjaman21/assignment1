@@ -1,0 +1,148 @@
+/* banner section */
+header{
+    background-image: url(Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 26px;
+    padding-bottom: 44px;
+    background-size: cover;
+}
+.banner{
+
+    text-align: center;
+
+}
+.banner-title{
+    font-weight: bolder
+    color: rgba(13, 19, 33, 1.00);
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif
+}
+
+.banner-description{
+    text-align: center;
+    max-width: 852px;
+    margin: 0 auto;
+}
+.btn-bg{
+    padding: 21px 24px;
+
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border-radius: 8px;
+}
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.web-development{
+    margin-top: 154px;
+    background:rgba(13, 19, 33, 0.02); ;
+    border-radius: 16px;
+    padding: 80px 97px;
+}
+.section-title{
+    color: rgb(13, 19, 33);
+    text-align: center;
+    font-weight: 800;
+    font-size: 32px;
+}
+.section-description{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+}
+.reasons{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 48px;
+    border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+margin: 32px 0;
+
+}
+.reason-design{
+    width: 477px;
+}
+.reason-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left; 
+}
+.reason-description{
+    font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+width: 468px;
+
+}
+.second-reason{
+    display: flex;
+    border-radius: 16px;
+background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+
+
+.learn-more{
+    padding: 12px 20px;
+    margin: 32px 0;
+    align-items: center;
+    color:rgb(13, 19, 33) ;
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+color: rgb(13, 19, 33);}
+.inspiration{
+margin-top: 88px;
+}
+.inspiration-title{
+text-align: center;
+font-weight: 800;
+font-size: 32px;
+color:rgb(13, 19, 33) ;
+}
+.inspiration-description{
+text-align: center;
+font-size: 16px;
+color:rgb(13, 19, 33) ;
+max-width: 852;
+margin: 0 auto;
+}
+.target{
+    margin-top: 240;
+}
+.target-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+}
+.target-description{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+.video{
+   display: flex;
+   justify-content: center;
+   padding: 32px 32px;
+   border-radius: 16px;
+   background: rgb(255, 255, 255);
+}
